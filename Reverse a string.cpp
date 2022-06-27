@@ -15,7 +15,7 @@ void reverseString(string str)
 
 int main()
 {
-    string str="Nagarro";
+    string str="Karan";
 
 
     reverseString(str);
